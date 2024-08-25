@@ -8,6 +8,7 @@ This version of the script has 24 points.
 - 8 points in the map "Vilagge of zombies"
 - 8 points in the map "Office"
 - 8 points in the map "Power cliff".
+  
 The script can remove anti-cheat.
 
 This script was tested on -celery injector-
